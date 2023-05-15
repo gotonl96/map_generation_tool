@@ -1,0 +1,12 @@
+# input_file_path: /home/a/map/sangam_map/GlobalPointCloudMap.pcd
+# output_file_path: /home/a/map/sangam_map/converted_map.pcd
+input_file_path: /home/a/c_track_map/IscLoam.pcd
+output_file_path: /home/a/c_track_map/converted_map.pcd
+# reference_latitude:  35.091566
+# reference_longitude:  126.830118
+x: 0.
+y: 0.
+z: 0.
+roll: 0.
+pitch: 0.
+yaw: -227
